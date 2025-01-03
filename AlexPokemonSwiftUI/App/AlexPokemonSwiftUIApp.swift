@@ -12,7 +12,7 @@ import SwiftUI
 struct AlexPokemonSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PokemonListView()
         }
     }
 }
